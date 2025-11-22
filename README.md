@@ -19,31 +19,30 @@ Currently completed my **Master’s in Data Science in Germany**, and actively b
 
 ### 🔹 Product KPI Dashboard — DAU/WAU/MAU, Retention, Activation
 SQL + Tableau KPI analysis for a mobile app.  
-➡️ Repo: https://github.com/rayrashmi/analytics-portfolio/tree/main/01_product_kpi_dashboard
-
+➡️ Repo: https://github.com/rayrashmi/rashmi-analytics-portfolio/tree/main/01_product_kpi_dashboard
 ---
 
 ### 🔹 E-Commerce Funnel Analysis — Conversion & Drop-Off Insights  
 SQL-based funnel modeling for an online store.  
-➡️ Repo: https://github.com/rayrashmi/analytics-portfolio/tree/main/02_funnel_analysis
+➡️ Repo: https://github.com/rayrashmi/rashmi-analytics-portfolio/tree/main/02_funnel_analysis
 
 ---
 
 ### 🔹 A/B Test Experiment — Significance Analysis & Recommendations  
 Python-based A/B test with p-values, lift, and decision-making.  
-➡️ Repo: https://github.com/rayrashmi/analytics-portfolio/tree/main/03_ab_test_analysis
+➡️ Repo: https://github.com/rayrashmi/rashmi-analytics-portfolio/tree/main/03_ab_test_analysis
 
 ---
 
 ### 🔹 Cohort Retention Analysis — Customer Lifecycle  
 Python cohort calculations and heatmap visualization.  
-➡️ Repo: https://github.com/rayrashmi/analytics-portfolio/tree/main/04_cohort_retention_analysis
+➡️ Repo: https://github.com/rayrashmi/rashmi-analytics-portfolio/tree/main/04_cohort_retention_analysis
 
 ---
 
 ### 🔹 SQL Business Case Study — Revenue, Churn, Profitability  
 Realistic SQL analytics for business insights.  
-➡️ Repo: https://github.com/rayrashmi/analytics-portfolio/tree/main/05_sql_business_case_study
+➡️ Repo: https://github.com/rayrashmi/rashmi-analytics-portfolio/tree/main/05_sql_business_case_study
 
 ---
 
