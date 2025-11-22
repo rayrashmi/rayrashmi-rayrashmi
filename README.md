@@ -20,6 +20,7 @@ Currently completed my **Master’s in Data Science in Germany**, and actively b
 ### 🔹 Product KPI Dashboard — DAU/WAU/MAU, Retention, Activation
 SQL + Tableau KPI analysis for a mobile app.  
 ➡️ Repo: https://github.com/rayrashmi/rashmi-analytics-portfolio/tree/main/01_product_kpi_dashboard
+
 ---
 
 ### 🔹 E-Commerce Funnel Analysis — Conversion & Drop-Off Insights  
