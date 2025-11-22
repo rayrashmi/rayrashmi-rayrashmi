@@ -86,6 +86,9 @@ Realistic SQL analytics for business insights.
 - Customer journey ("order to fulfillment")  
 - Oracle Siebel workflows
 
+➡️ Repo : https://github.com/rayrashmi/Professional-Project-Summaries
+
+
 ---
 
 ## 📫 Connect with Me
