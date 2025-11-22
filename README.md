@@ -90,8 +90,8 @@ Realistic SQL analytics for business insights.
 
 ## 📫 Connect with Me
 
-- 💼 **LinkedIn:** *(add your link)*  
-- 📧 **Email:** *(add your email)*  
+- 💼 **LinkedIn:** *( https://www.linkedin.com/in/rashmi-ray-0aa350129/ )*  
+- 📧 **Email:** *( rayrashmi18@gmail.com )*  
 
 ---
 
