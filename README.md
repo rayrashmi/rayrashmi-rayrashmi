@@ -5,11 +5,11 @@
 
 I'm a data professional with **6+ years of real industry experience** in:
 
-- 📌 Product Analytics (funnels, retention, activation, experiments)  
-- 📌 Business Analytics (revenue, churn, LTV, segmentation)  
-- 📌 Data Quality & Validation (Oracle, Snowflake, AWS)  
-- 📌 Data Warehouse / ETL Testing  
-- 📌 Dashboarding & Data Storytelling (Tableau / Power BI)
+-  Product Analytics (funnels, retention, activation, experiments)  
+-  Business Analytics (revenue, churn, LTV, segmentation)  
+-  Data Quality & Validation (Oracle, Snowflake, AWS)  
+-  Data Warehouse / ETL Testing  
+-  Dashboarding & Data Storytelling (Tableau / Power BI)
 
 Currently completed my **Master’s in Data Science in Germany**, and actively building hands-on analytics projects to transition into **Data Analyst / Product Analyst roles**.
 
